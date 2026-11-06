@@ -25,4 +25,4 @@ jobs:
           
       
       - name: Run main.py
-        run: python main.py -u 17550759016 -p Hzx1314. -l 227445667
+        run: python main.py -u 19526355073 -p Hyq20060708!!! -l 268812634
